@@ -1,3 +1,3 @@
 easing
 ======
-yay
+a penguin follows the mouse
